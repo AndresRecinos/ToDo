@@ -58,7 +58,7 @@ function tickTask(event) {
     item.style.color = "#ff0000";
   } else {
     item.style.textDecoration = "none";
-    item.style.color = "#2f4f4f";
+    item.style.color = "#ff0000";
   }
 }
 
