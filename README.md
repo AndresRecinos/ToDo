@@ -8,11 +8,13 @@
 ## To Do App using HTML/CSS/JavaScript
 
 
-click [here](https://andresrecinos.github.io/ToDo/) to view the live site
+click [here](https://andresrecinos.github.io/ToDo/) to view the live application.
 
 
 ### Summary
 
+Basic todo app using Javascript
+
 ### Author
 
-Andres Recinos -Software engineer - [github](https://github.com/andresrecinos) | Personal Site | Linkedin
+Andres Recinos | Web Developer | [github](https://github.com/andresrecinos) | Personal Site | Linkedin
