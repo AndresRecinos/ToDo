@@ -8,4 +8,11 @@
 ## To Do App using HTML/CSS/JavaScript
 
 
+click [here](https://andresrecinos.github.io/ToDo/) to view the live site
 
+
+### Summary
+
+### Author
+
+Andres Recinos -Software engineer - [github](https://github.com/andresrecinos) | Personal Site | Linkedin
