@@ -29,7 +29,7 @@ function submit(event) {
   input.value = '';
 }
 
-3
+
 
 function deleteTick(event) {
   if (event.target.className == 'delete')
